@@ -1,0 +1,5 @@
+*/15 * * * * /usr/bin/php /var/www/company.ru/company/public/cli/index.php user:Example:Example_crm:dialing:daemon
+*/15 * * * * /usr/bin/php /var/www/company.ru/company/public/cli/index.php user:Example:Example_crm:contact_update:daemon
+*/15 * * * * /usr/bin/php /var/www/company.ru/company/public/cli/index.php user:Example:Example_crm:company_update:daemon
+*/15 * * * * /usr/bin/php /var/www/company.ru/company/public/cli/index.php user:Example:Example_crm:lead_update:daemon
+*/15 * * * * /usr/bin/php /var/www/company.ru/company/public/cli/index.php user:Example:amocrm:run:daemon

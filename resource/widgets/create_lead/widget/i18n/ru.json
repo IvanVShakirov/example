@@ -1,0 +1,11 @@
+{
+  "widget": {
+    "name": "Передать в ExampleCRM",
+    "short_description": "Передать в ExampleCRM",
+    "description": "Передать в ExampleCRM",
+    "button": "Передать в ExampleCRM"
+  },
+  "settings": {
+    "fake": "fake"
+  }
+}
